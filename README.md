@@ -1,6 +1,4 @@
 ATM in TypeScript
-
-ATM in TypeScript
 =================
 
 This is a simple ATM project implemented in TypeScript. It allows users to perform the following actions:
