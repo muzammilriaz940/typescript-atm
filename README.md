@@ -27,14 +27,9 @@ To use this project, follow these steps:
     ``npm install``
             
     
-4.  Compile the TypeScript code:
+4.  Run the ATM:
     
-    ``npm run build``
-            
-    
-5.  Run the ATM:
-    
-    ``npm start``
+    ``node index.js``
             
     
 
